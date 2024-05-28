@@ -13,6 +13,8 @@ This repository contains a project on Discrete Wavelet Transforms (DWT) implemen
 ## Project Description
 The Discrete Wavelet Transform (DWT) project aims to provide an efficient implementation of DWT using VHDL for FPGA deployment. The project also includes Python scripts for testing and verifying the functionality of the VHDL code. This project was developed as part of a course on Digital Systems and demonstrates the application of DWT in signal processing.
 
+Find a more detailed explanation on Discrete Wavelet Transforms in the `DiscreteWaveletTransforms.md` file in the repository
+
 ## Features
 - VHDL implementation of DWT
 - Python scripts for simulation and testing
