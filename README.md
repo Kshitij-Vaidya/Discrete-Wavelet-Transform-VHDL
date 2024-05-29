@@ -33,8 +33,8 @@ Find a more detailed explanation on Discrete Wavelet Transforms in the `Discrete
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/dwt_project.git
-   cd dwt_project
+   git clone https://github.com/Kshitij-Vaidya/Discrete-Wavelet-Transform-VHDL.git
+   cd Discrete-Wavelet-Transform-VHDL
    ```
 2. Install the required Python libraries:
    ```sh
