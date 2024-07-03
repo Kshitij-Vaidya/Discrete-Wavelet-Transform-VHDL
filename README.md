@@ -61,5 +61,5 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 ## Acknowledgements
 - Course Instructor: Prof. Siddharth Tallur
-- FPGA Development Environment: [Tool Name]
+- FPGA Development Environment: Intel Quartus Prime
 - Contributers to the Project: Kshitij Vaidya, Jay Mehta, Adit Srivastave, Jainam Ravani
